@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f801ba.chunk.css",
+    "main.js": "/static/js/main.d15723db.chunk.js",
+    "main.js.map": "/static/js/main.d15723db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.782e5587.js",
+    "runtime-main.js.map": "/static/js/runtime-main.782e5587.js.map",
+    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
+    "static/js/2.cc914ab1.chunk.js": "/static/js/2.cc914ab1.chunk.js",
+    "static/js/2.cc914ab1.chunk.js.map": "/static/js/2.cc914ab1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.f9f801ba.chunk.css.map": "/static/css/main.f9f801ba.chunk.css.map",
+    "static/js/2.cc914ab1.chunk.js.LICENSE.txt": "/static/js/2.cc914ab1.chunk.js.LICENSE.txt",
+    "static/media/emeafricalogo.756a48d7.png": "/static/media/emeafricalogo.756a48d7.png",
+    "static/media/google-play-badge.0062d571.png": "/static/media/google-play-badge.0062d571.png",
+    "static/media/main.f34f4883.svg": "/static/media/main.f34f4883.svg",
+    "static/media/main2.b1ab85f6.svg": "/static/media/main2.b1ab85f6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.782e5587.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.cc914ab1.chunk.js",
+    "static/css/main.f9f801ba.chunk.css",
+    "static/js/main.d15723db.chunk.js"
+  ]
+}
