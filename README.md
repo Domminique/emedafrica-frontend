@@ -1,11 +1,11 @@
 #### Proxy
 
 "proxy": "https://savannaspace.co.ke"
-"proxy": "http://localhost:5000"
+"proxy": "http://localhost:80"
 
 Doug.
 
-
+Run npm start in main folder to start project
 Verify Email,Forgot/Reset Password Functionality,
 
 The website files are in the folder called build, just upload to host
