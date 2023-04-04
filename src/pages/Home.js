@@ -5,6 +5,18 @@ import main from '../assets/main2.svg';
 import appstore from '../assets/google-play-badge.png'
 import { Redirect } from 'react-router-dom';
 import { useGlobalContext } from '../context';
+
+
+
+import InfoSection from '../components/InfoSection'
+import {
+  homeObjOne,
+  homeObjTwo,
+  homeObjThree,
+} from '../components/InfoSection/Data'
+import QandA from '../components/QandA'
+import ReviewsComponent from '../components/ReviewsComponent'
+
 function Home() {
   const { user } = useGlobalContext();
   return (
@@ -39,6 +51,16 @@ function Home() {
         </div>
         <img src={main} alt='job hunt' className='img main-img' />
       </Wrapper>
+      <InfoSection {...homeObjOne} />
+      <br />
+      <br />
+      <QandA />
+      <br />
+      <InfoSection {...homeObjTwo} />
+      {/* Reviwws */}
+
+      <ReviewsComponent />
+      <InfoSection {...homeObjThree} />
     </>
   );
 }

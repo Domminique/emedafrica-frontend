@@ -12,6 +12,7 @@ import {
 } from './pages';
 import Navbar from './components/Navbar';
 import { useGlobalContext } from './context';
+import Footer from './components/Footer'
 function App() {
   const { isLoading } = useGlobalContext();
   if (isLoading) {
@@ -50,6 +51,7 @@ function App() {
           <Error />
         </Route>
       </Switch>
+      <Footer />
     </Router>
   );
 }
